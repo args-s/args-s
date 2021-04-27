@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a student in Maynooth University in Ireland 🍀 studying Computer Science and Software Engineering.
 
 
-Welcome to the club! <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=args-s&show_icons=true&theme=dracula&locale=en&layout=compact" alt="args-s" />
+Welcome to the club! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=args-s.visitor-badge)
 
 Languages I've worked in:
 <p>
@@ -31,7 +31,9 @@ Personal Favourites:
 <p><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=args-s&show_icons=true&locale=en&theme=dracula" alt="args-s" />
+![Killian's GitHub stats](https://github-readme-stats.vercel.app/api?username=args-s&theme=dark&show_icons=true)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=args-s&show_icons=true&theme=dracula&locale=en&layout=compact" alt="args-s" />
