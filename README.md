@@ -1,8 +1,5 @@
 <h1 align="center">Hello I'm Killian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-
-
-
 <!--
 **args-s/args-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +17,7 @@ Here are some ideas to get you started:
 I'm a student in Maynooth University in Ireland 🍀 studying Computer Science and Software Engineering.
 
 
-Welcome to the club! <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekajb97&show_icons=true&locale=en&theme=dracula" alt="ekajb97" />
+Welcome to the club! <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=args-s&show_icons=true&theme=dracula&locale=en&layout=compact" alt="args-s" />
 
 Languages I've worked in:
 <p>
@@ -33,8 +30,8 @@ Tools/Software I've used:
 Personal Favourites:
 <p><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=args-s&show_icons=true&locale=en&theme=dracula" alt="args-s" />
+
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
