@@ -68,5 +68,8 @@ Welcome to the club!
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=args-s&show_icons=true&theme=default&locale=en&layout=compact" alt="args-s" />
 </p>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
