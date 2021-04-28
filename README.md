@@ -36,8 +36,6 @@ Welcome to the club!
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
 ### Tools/Software I've used
@@ -63,13 +61,11 @@ Welcome to the club!
 
 ### Stats about me
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=args-s&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=args-s&show_icons=true&theme=default&locale=en&layout=compact" alt="args-s" />
-</p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=args-s&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
+</p>
