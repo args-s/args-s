@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-killianflood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/killian-flood/)](https://www.linkedin.com/in/killian-flood/)
 [![Instagram Badge](https://img.shields.io/badge/-killian.jpg-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/killian.jpg/)](https://instagram.com/killian.jpg)
-[![Gmail Badge](https://img.shields.io/badge/-killiansmailbox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:killiansmailbox@gmail.com)](mailto:killiansmailbox@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-killianflood@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:killianflood@outlook.com)](mailto:killianflood@outlook.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank:%20args_s-green?style=flat-square&logoColor=white&link=https://www.hackerrank.com/args_s)](https://www.hackerrank.com/args_s)
 
 ### About Me
